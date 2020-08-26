@@ -5,3 +5,4 @@ Pokemon Battle Simulator
 - Pokemon and Move Types
 - Physical and Special Attacks
 - Stat Raising and Stat Lowering Moves
+- Actual Pokemon Stats from Gen 3
