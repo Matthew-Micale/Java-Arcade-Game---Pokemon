@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StatLowerMove
+comment0.text=\r\n\ Matt\ Micale\r\n\ StatLowerMove\ that\ is\ inherited\ from\ Move\ base\ class\r\n\ 8/17/20\r\n
+comment1.params=mn\ n\ s\ m
+comment1.target=StatLowerMove(java.lang.String,\ Type,\ int,\ int)
+comment2.params=user\ target
+comment2.target=void\ useMove(Pokemon,\ Pokemon)
+numComments=3

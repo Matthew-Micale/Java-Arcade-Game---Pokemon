@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Simulator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ welcomeMessage()
+comment3.params=ap
+comment3.target=Pokemon\ choosePokemon(Pokemon[])
+comment4.params=ap
+comment4.target=Pokemon\ randomPokemon(Pokemon[])
+comment5.params=user\ target
+comment5.target=void\ pokemonBattle(Pokemon,\ Pokemon)
+comment6.params=user\ target
+comment6.target=void\ printPokemon(Pokemon,\ Pokemon)
+comment7.params=user
+comment7.target=int\ moveSelection(Pokemon)
+numComments=8

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Type
+comment0.text=\r\n\ Matt\ Micale\r\n\ Type\ Class\r\n\ 8/13/2020\r\n
+comment1.params=tn
+comment1.target=Type(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTypeName()
+comment3.params=tn\ w\ s
+comment3.target=Type(java.lang.String,\ Type[],\ Type[])
+comment4.params=w
+comment4.target=void\ addWeakness(Type)
+comment5.params=
+comment5.target=int\ getWeakLength()
+comment6.params=s
+comment6.target=void\ addStrength(Type)
+comment7.params=
+comment7.target=int\ getStrengthLength()
+comment8.params=
+comment8.target=Type[]\ getWeaknesses()
+comment9.params=
+comment9.target=Type[]\ getStrengths()
+numComments=10

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Pokedex
+comment0.text=\r\n\ Matt\ Micale\r\n\ Pokedex\ class\ that\ instantiates\ every\ Pokemon\ object,\ every\ move,\ and\ every\ type\r\n\ 8/13/2020\r\n
+comment1.params=
+comment1.target=Pokedex()
+comment2.params=
+comment2.target=void\ createPokemon()
+comment3.params=
+comment3.target=Pokemon[]\ getPokemonArray()
+comment4.params=
+comment4.target=void\ typeDex()
+comment5.params=
+comment5.target=void\ moveDex()
+comment6.params=t1\ t2
+comment6.target=double\ checkTypeEffectiveness(Type,\ Type)
+numComments=7
